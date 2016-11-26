@@ -11,7 +11,7 @@ This includes features like :
 
 #Prerequisites
 
-You need to have a Python environment sur votre ordinateur and this package :
+You need to have a Python environment on your computer and this package :
 
 - PIL
 
