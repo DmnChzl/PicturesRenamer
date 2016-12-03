@@ -1,4 +1,4 @@
-![Image](https://raw.githubusercontent.com/MrDoomy/PicturesRenamer/master/dev/pictures_renamer.png)
+![Image](https://raw.githubusercontent.com/MrDoomy/PicturesRenamer/master/dev/images/pictures_renamer.png)
 
 This is a simple script to massively rename pictures in a directory with the creation date.
 
@@ -30,6 +30,10 @@ Here is the list of parameters of the template :
 - **%H** : hour
 - **%M** : minute
 - **%S** : second
+
+#Screenshot
+
+![Image](https://raw.githubusercontent.com/MrDoomy/MusicCropper/master/dev/screenshots/computer.png)
 
 #License
 
