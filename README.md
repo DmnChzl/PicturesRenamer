@@ -9,7 +9,7 @@ This includes features like :
 - Specify the format of the date
 - Return the renaming operation logs
 
-#Prerequisites
+# Prerequisites
 
 You need to have a Python environment on your computer and this package :
 
@@ -19,7 +19,7 @@ You need to have a Python environment on your computer and this package :
    sudo pip install Pillow
 ```
 
-#Usage
+# Usage
 
 You can change the date format with `--template=[value]`. By default the date is returned like this : `%Y%m%d_%H%M%S`, but you can only display the time like this : `--template='%H%M%S'`. As you wish !
 
@@ -31,11 +31,11 @@ Here is the list of parameters of the template :
 - **%M** : minute
 - **%S** : second
 
-#Screenshot
+# Screenshot
 
 ![Image](https://raw.githubusercontent.com/MrDoomy/MusicCropper/master/dev/screenshots/computer.png)
 
-#License
+# License
 
     Copyright (C) 2016 Damien Chazoule
 
