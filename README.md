@@ -33,7 +33,7 @@ Here is the list of parameters of the template :
 
 # Screenshot
 
-![Image](https://raw.githubusercontent.com/MrDoomy/MusicCropper/master/dev/screenshots/computer.png)
+![Image](https://raw.githubusercontent.com/MrDoomy/PicturesRenamer/master/dev/screenshots/computer.png)
 
 # License
 
